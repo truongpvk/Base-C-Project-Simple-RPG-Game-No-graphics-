@@ -3,16 +3,19 @@
   "WorkspaceRootPath": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\The RPG Based\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B24C242E-9C52-4626-A15C-6C5E38D7ADDC}|SuperAdvanture.csproj|d:\\codespace-learning\\project based\\c#\\simplerpg\\the rpg based\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B24C242E-9C52-4626-A15C-6C5E38D7ADDC}|SuperAdvanture.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B24C242E-9C52-4626-A15C-6C5E38D7ADDC}|SuperAdvanture.csproj|d:\\codespace-learning\\project based\\c#\\simplerpg\\the rpg based\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B24C242E-9C52-4626-A15C-6C5E38D7ADDC}|SuperAdvanture.csproj|solutionrelative:superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B24C242E-9C52-4626-A15C-6C5E38D7ADDC}|SuperAdvanture.csproj|d:\\codespace-learning\\project based\\c#\\simplerpg\\the rpg based\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7C7A731A-D8F5-46E1-98C4-73A99880FF91}|..\\Logic Project\\Logic Project.csproj|d:\\codespace-learning\\project based\\c#\\simplerpg\\logic project\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24C242E-9C52-4626-A15C-6C5E38D7ADDC}|SuperAdvanture.csproj|D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\The RPG Based\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B24C242E-9C52-4626-A15C-6C5E38D7ADDC}|SuperAdvanture.csproj|solutionrelative:superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B24C242E-9C52-4626-A15C-6C5E38D7ADDC}|SuperAdvanture.csproj|d:\\codespace-learning\\project based\\c#\\simplerpg\\the rpg based\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B24C242E-9C52-4626-A15C-6C5E38D7ADDC}|SuperAdvanture.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +25,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\Logic Project\\Player.cs",
+              "RelativeDocumentMoniker": "..\\Logic Project\\Player.cs",
+              "ToolTip": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\Logic Project\\Player.cs",
+              "RelativeToolTip": "..\\Logic Project\\Player.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAUwFcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T10:14:13.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Class1.cs",
               "DocumentMoniker": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\The RPG Based\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
@@ -51,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "SuperAdventure.cs",
               "DocumentMoniker": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\The RPG Based\\SuperAdventure.cs",
               "RelativeDocumentMoniker": "SuperAdventure.cs",
               "ToolTip": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\The RPG Based\\SuperAdventure.cs",
               "RelativeToolTip": "SuperAdventure.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAA3wJQAAAAAAAAA",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-16T08:42:20.412Z",
               "EditorCaption": ""

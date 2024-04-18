@@ -9,6 +9,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 using Logic_Project;
 
@@ -20,15 +21,22 @@ namespace The_RPG_Based
         private Monster _currentMonster;
         private Weapon _currentWeapon;
         private Potion _currentPotion;
+
+        private const string PLAYER_DATA_FILE_NAME = "PlayerData.xml";
         public SuperAdventure()
         {
             InitializeComponent();
-            _player = new Player(100, 100, 50, 0, 1);
-            moveTo(World.LocationByID(World.LOCATION_ID_HOME));
-            _player.inventoryItems.Add(new InventoryItem(World.ItemByID(World.ITEM_ID_IRON_SWORD), 1));
-            _player.inventoryItems.Add(new InventoryItem(World.ItemByID(World.ITEM_ID_HEALING_POTION), 100));
-
+            if (File.Exists(PLAYER_DATA_FILE_NAME))
+            {
+                _player = Player.CreatePlayerFromXMLString(File.ReadAllText(PLAYER_DATA_FILE_NAME));
+            }
+            else
+            {
+                _player = Player.CreateDefaultPlayer();
+            }
             _player.IncreseHPperLevel(_player.currentLevel);
+
+            moveTo(_player.currentLocation);
             ResetAll();
         }
 
@@ -386,6 +394,11 @@ namespace The_RPG_Based
         {
             _player.setLevel();
             ResetAll();
+        }
+
+        private void SuperAdventure_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            File.WriteAllText(PLAYER_DATA_FILE_NAME, _player.ToXmlString());
         }
     }
 

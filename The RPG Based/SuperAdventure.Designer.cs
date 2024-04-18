@@ -308,6 +308,7 @@
             Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             Name = "SuperAdventure";
             Text = "My Game";
+            FormClosing += SuperAdventure_FormClosing;
             Load += SuperAdventure_Load;
             ((System.ComponentModel.ISupportInitialize)dgvInventory).EndInit();
             ((System.ComponentModel.ISupportInitialize)dgvQuests).EndInit();

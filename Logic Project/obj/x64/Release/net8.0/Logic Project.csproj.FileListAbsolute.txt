@@ -7,3 +7,4 @@ D:\Codespace-Learning\Project Based\C#\SimpleRPG\Logic Project\obj\x64\Release\n
 D:\Codespace-Learning\Project Based\C#\SimpleRPG\Logic Project\obj\x64\Release\net8.0\refint\Logic Project.dll
 D:\Codespace-Learning\Project Based\C#\SimpleRPG\Logic Project\obj\x64\Release\net8.0\Logic Project.pdb
 D:\Codespace-Learning\Project Based\C#\SimpleRPG\Logic Project\obj\x64\Release\net8.0\ref\Logic Project.dll
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\Logic Project\obj\x64\Release\net8.0\Logic Project.sourcelink.json
