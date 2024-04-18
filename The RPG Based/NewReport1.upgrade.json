@@ -1,0 +1,127 @@
+{
+  "settings": {
+    "components": {
+      "code": true,
+      "binaries": true
+    },
+    "targetId": "",
+    "targetDisplayName": ".NET 8.0"
+  },
+  "analysisStartTime": "2024-04-16T08:35:43.1864813Z",
+  "analysisEndTime": "2024-04-16T08:35:46.0304766Z",
+  "stats": {
+    "summary": {
+      "projects": 2,
+      "issues": 2,
+      "incidents": 4,
+      "effort": 4
+    },
+    "charts": {
+      "severity": {
+        "Mandatory": 4,
+        "Optional": 0,
+        "Potential": 0,
+        "Information": 0
+      },
+      "category": {
+        "Project": 4
+      }
+    }
+  },
+  "projects": [
+    {
+      "path": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\Logic Project\\Logic Project.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "ruleInstances": [
+        {
+          "incidentId": "9d234a1c-d80f-4926-a869-cbe74eb3459d",
+          "ruleId": "Project.0001",
+          "projectPath": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\Logic Project\\Logic Project.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\Logic Project\\Logic Project.csproj"
+          }
+        },
+        {
+          "incidentId": "32025627-a6d5-4fd8-8fb7-9946d7d5fc22",
+          "ruleId": "Project.0002",
+          "projectPath": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\Logic Project\\Logic Project.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\Logic Project\\Logic Project.csproj",
+            "snippet": "Current: .NETFramework,Version=v4.8\nNew: net8.0"
+          }
+        }
+      ]
+    },
+    {
+      "path": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\The RPG Based\\SuperAdvanture.csproj",
+      "startingProject": true,
+      "issues": 2,
+      "storyPoints": 2,
+      "ruleInstances": [
+        {
+          "incidentId": "98a83a57-321d-45fa-917d-d99bc799f4c4",
+          "ruleId": "Project.0001",
+          "projectPath": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\The RPG Based\\SuperAdvanture.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\The RPG Based\\SuperAdvanture.csproj"
+          }
+        },
+        {
+          "incidentId": "d6c37826-aa29-4ff2-8b91-0d890796b3eb",
+          "ruleId": "Project.0002",
+          "projectPath": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\The RPG Based\\SuperAdvanture.csproj",
+          "state": "Active",
+          "location": {
+            "kind": "File",
+            "path": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\The RPG Based\\SuperAdvanture.csproj",
+            "snippet": "Current: .NETFramework,Version=v4.8\nNew: net8.0-windows"
+          }
+        }
+      ]
+    }
+  ],
+  "rules": {
+    "Project.0001": {
+      "id": "Project.0001",
+      "description": "Project file needs to be converted to SDK style. Modern .NET framework projects require a change in the project file format and use SDK corresponding to project flavor and functionality.",
+      "label": "Project file needs to be converted to SDK style",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "title": "Overview of porting from .NET Framework to .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265227"
+        },
+        {
+          "title": ".NET project SDKs",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265226"
+        }
+      ]
+    },
+    "Project.0002": {
+      "id": "Project.0002",
+      "description": "Project\u0027s target framework(s) needs to be changed to the new target framework that you selected for this upgrade.\n\nDuring upgrade target framework will be adjusted to correspinding platform when applicable. In some cases project would result in multiple target frameworks after the upgrade if it was using features that now have their own platforms in moderrn .NET frameworks (windows, iOS, Android etc).",
+      "label": "Project\u0027s target framework(s) needs to be changed",
+      "severity": "Mandatory",
+      "effort": 1,
+      "links": [
+        {
+          "title": "Overview of porting from .NET Framework to .NET",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265227"
+        },
+        {
+          "title": ".NET project SDKs",
+          "url": "https://go.microsoft.com/fwlink/?linkid=2265226"
+        }
+      ]
+    }
+  }
+}

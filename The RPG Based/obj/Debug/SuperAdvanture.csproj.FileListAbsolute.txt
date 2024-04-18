@@ -1,0 +1,13 @@
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\bin\Debug\The RPG Based.exe.config
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\bin\Debug\The RPG Based.exe
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\bin\Debug\The RPG Based.pdb
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\bin\Debug\Logic Project.dll
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\bin\Debug\Logic Project.pdb
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\Debug\SuperAdvanture.csproj.AssemblyReference.cache
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\Debug\The_RPG_Based.Properties.Resources.resources
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\Debug\SuperAdvanture.csproj.GenerateResource.cache
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\Debug\SuperAdvanture.csproj.CoreCompileInputs.cache
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\Debug\SuperAdv.5A2CAE2B.Up2Date
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\Debug\The RPG Based.exe
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\Debug\The RPG Based.pdb
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\Debug\The_RPG_Based.SuperAdventure.resources

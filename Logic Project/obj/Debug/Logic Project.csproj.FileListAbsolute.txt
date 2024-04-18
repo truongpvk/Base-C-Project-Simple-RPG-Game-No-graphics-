@@ -1,0 +1,6 @@
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\Logic Project\bin\Debug\Logic Project.dll
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\Logic Project\bin\Debug\Logic Project.pdb
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\Logic Project\obj\Debug\Logic Project.csproj.AssemblyReference.cache
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\Logic Project\obj\Debug\Logic Project.csproj.CoreCompileInputs.cache
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\Logic Project\obj\Debug\Logic Project.dll
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\Logic Project\obj\Debug\Logic Project.pdb

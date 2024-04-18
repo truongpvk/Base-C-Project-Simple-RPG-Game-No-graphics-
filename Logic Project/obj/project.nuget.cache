@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZqoXplpP7co067AJygR4rIpDP1jaR4LmqnRqv5u9OcJKj0ITdC64AqKso3wyd9fVoUSgsLj6kCZFu82Dr3dDnw==",
+  "success": true,
+  "projectFilePath": "D:\\Codespace-Learning\\Project Based\\C#\\SimpleRPG\\Logic Project\\Logic Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GIGABYTE\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\GIGABYTE\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

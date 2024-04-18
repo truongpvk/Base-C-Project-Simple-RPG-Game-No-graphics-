@@ -1,0 +1,20 @@
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\bin\x64\Release\net8.0-windows\The RPG Based.exe
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\bin\x64\Release\net8.0-windows\The RPG Based.dll.config
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\bin\x64\Release\net8.0-windows\The RPG Based.deps.json
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\bin\x64\Release\net8.0-windows\The RPG Based.runtimeconfig.json
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\bin\x64\Release\net8.0-windows\The RPG Based.dll
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\bin\x64\Release\net8.0-windows\The RPG Based.pdb
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\bin\x64\Release\net8.0-windows\Logic Project.dll
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\bin\x64\Release\net8.0-windows\Logic Project.pdb
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\x64\Release\net8.0-windows\SuperAdvanture.csproj.AssemblyReference.cache
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\x64\Release\net8.0-windows\The_RPG_Based.Properties.Resources.resources
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\x64\Release\net8.0-windows\The_RPG_Based.SuperAdventure.resources
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\x64\Release\net8.0-windows\SuperAdvanture.csproj.GenerateResource.cache
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\x64\Release\net8.0-windows\SuperAdvanture.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\x64\Release\net8.0-windows\SuperAdvanture.csproj.CoreCompileInputs.cache
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\x64\Release\net8.0-windows\SuperAdv.5A2CAE2B.Up2Date
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\x64\Release\net8.0-windows\The RPG Based.dll
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\x64\Release\net8.0-windows\refint\The RPG Based.dll
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\x64\Release\net8.0-windows\The RPG Based.pdb
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\x64\Release\net8.0-windows\SuperAdvanture.genruntimeconfig.cache
+D:\Codespace-Learning\Project Based\C#\SimpleRPG\The RPG Based\obj\x64\Release\net8.0-windows\ref\The RPG Based.dll
